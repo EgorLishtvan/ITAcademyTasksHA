@@ -1,6 +1,6 @@
 package Task4;
 
-public class Main {
+public class main {
 
     public static void main(String[] args) {
         byte b = 0 * 55;

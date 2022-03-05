@@ -6,7 +6,7 @@ public class Calculate {
     double hours;
     double days;
     double weeks;
-    public void Data(int seconds){
+    public void data(int seconds){
     minutes=seconds/60;
     hours=minutes/60;
     days=hours/24;
