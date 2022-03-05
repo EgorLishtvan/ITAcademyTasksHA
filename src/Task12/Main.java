@@ -28,6 +28,8 @@ public class Main {
             case 7:
                 System.out.println("Sunday. Free day");
                 break;
+            default:
+                System.out.println("There is no such day");
         }
     }
 }
